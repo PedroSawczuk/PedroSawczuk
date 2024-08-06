@@ -20,4 +20,3 @@
 </div><br/>
  
  #### Acadêmico de Análise e Desenvolvimento de Sistemas Atualmente no 5º Semestre.
-#### Estagiário AWS Cloud Data Engineering Compass UOL

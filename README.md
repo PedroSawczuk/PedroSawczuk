@@ -13,4 +13,4 @@
   <img align="center" alt="react-js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </div><br/>
  
- #### Acadêmico de Análise e Desenvolvimento de Sistemas Atualmente no 5º Semestre.
+ #### Acadêmico de Análise e Desenvolvimento de Sistemas Atualmente no 6º Semestre.
